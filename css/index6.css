@@ -1,0 +1,25 @@
+label{
+    width: 65px;
+}
+input{
+    width: 220px;
+}
+.text-blue{
+    color: #005cbf;
+}
+p{
+    margin-left: 65px;
+}
+.w1{
+    width: 320px;
+
+    float: left;
+}
+.w2{
+    width: 145px;
+
+    float: left;
+}
+.text-w{
+    font-size: 12px;
+}
